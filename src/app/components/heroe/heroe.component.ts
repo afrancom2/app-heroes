@@ -31,5 +31,5 @@ export class HeroeComponent {
     } else {
         this.logoCasa = 'assets/img/dc-logo.jpg';
       }
-  };
+  }
 }
